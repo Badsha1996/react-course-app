@@ -1,0 +1,15 @@
+.nav-container{
+    position: relative;
+    margin-left: 1rem;
+    margin-right:1rem ;
+    margin-top: 0;
+    z-index: 100;
+    
+    
+    
+}
+.nav-border{
+    border-radius: 2rem;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 100;
+}

@@ -1,0 +1,35 @@
+.para{
+    margin: 2rem;
+}
+.para-container{
+    position: relative;
+    margin: 2rem;
+}
+.title{
+    font-weight: 500;
+    color: rgb(36, 36, 36);
+    font-family: fantasy;
+    text-shadow: 0 0 5px white;
+    margin: 15px;
+}
+.about-section{
+    background: url("https://wallpapercave.com/wp/wp8149811.jpg");
+    position: absolute;
+    top:0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 51%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 100% 51%, 0% 100%);
+
+}
+.about-sec{
+    position: relative;
+    margin-top: 5rem;
+    height: 100vh;
+    width: 100%;
+    box-shadow: 0 0 10px black;
+}
+h1{
+    color: white;
+}
